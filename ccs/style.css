@@ -18,8 +18,7 @@ body {
 }
 
 main {
-  max-width: 1000px;
-  margin: auto;
+  margin: 40px;
   margin-top: 2rem;
   display: grid;
   grid-template-columns: 300px 600px;
