@@ -8,16 +8,16 @@
 }
 
 .profile-img {
-    width: 150px;
+    width: 50%;
     border-radius: 50%;
 }
 
 .contato {
     padding-top: 10px;
-    width: 100%;
     display: flex;
     gap: 5px;
     justify-items: left;
+    flex-wrap: wrap;
 }
 
 .icon {
